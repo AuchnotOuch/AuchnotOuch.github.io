@@ -12779,3 +12779,38 @@ body {
 .fa-github {
   font-size: xx-large;
 }
+/* Services Section */
+.services-section {
+    background-color: #212529; /* Same as about section */
+    color: #ffffff; /* White text color for visibility */
+    padding: 60px 0;
+}
+
+.services-section h2 {
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+    text-align: center;
+    color: #ffffff;
+}
+
+.services-section p {
+    font-size: 1rem;
+    color: #ffffff;
+    line-height: 1.6;
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+.services-section .service {
+    margin-bottom: 2rem;
+}
+
+.services-section .service h4 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    color: #ffffff;
+}
+
+.services-section .service p {
+    color: #ffffff;
+}
